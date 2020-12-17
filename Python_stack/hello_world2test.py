@@ -44,3 +44,7 @@ print(x.title())
 # string.join(list):  devuelve una cadena que es todas las cadenas dentro de nuestro conjunto (en este caso, una lista) concatenadas.
 # string.endswith(substring): devuelve un valor booleano en función de si los últimos caracteres de la cadena coinciden con la subcadena.
 
+# La sentencia pass es una operación nula; No pasa nada cuando se ejecuta. El pase casi nunca se ve en la producción final, pero puede ser útil en lugares donde su código aún no se ha completado.
+class EmptyClass:
+    pass
+
